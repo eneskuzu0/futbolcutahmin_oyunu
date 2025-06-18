@@ -84,13 +84,13 @@ pip install -r requirements.txt
 ## 🖼️ Ekran Görüntüleri
 
 **Ana Menü**  
-![Ana Menü](screenshots/ana_menu.png)
+![Ana Menü](python_odev/screenshots/ana_menu.png)
 
 **Tahmin Ekranı ve İpuçları**  
-![Oyun Ekranı](screenshots/oyun_ekrani.png)
+![Oyun Ekranı](python_odev/screenshots/oyun_ekranı.png)
 
 **Doğru Tahmin Sonrası**  
-![Doğru Tahmin](screenshots/dogru_tahmin.png)
+![Doğru Tahmin](python_odev/screenshots/dogru_tahmin.png)
 
 ---
 
