@@ -1,0 +1,4746 @@
+[
+  {
+    "isim": "Neto",
+    "yaş": 35,
+    "takım": "Arsenal",
+    "mevki": "Goalkeeper",
+    "uyruk": "Brazil",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "David Raya",
+    "yaş": 29,
+    "takım": "Arsenal",
+    "mevki": "Goalkeeper",
+    "uyruk": "Spain",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Tommy Setford",
+    "yaş": 19,
+    "takım": "Arsenal",
+    "mevki": "Goalkeeper",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jack Porter",
+    "yaş": 16,
+    "takım": "Arsenal",
+    "mevki": "Goalkeeper",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Aleksei Fedorushchenko",
+    "yaş": 19,
+    "takım": "Arsenal",
+    "mevki": "Goalkeeper",
+    "uyruk": "Russia",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Josh Nichols",
+    "yaş": 18,
+    "takım": "Arsenal",
+    "mevki": "Defence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Brayden Clarke",
+    "yaş": 17,
+    "takım": "Arsenal",
+    "mevki": "Defence",
+    "uyruk": "Wales",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Salah Oulad M'Hand",
+    "yaş": 21,
+    "takım": "Arsenal",
+    "mevki": "Midfield",
+    "uyruk": "Netherlands",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Nathan Butler-Oyedeji",
+    "yaş": 22,
+    "takım": "Arsenal",
+    "mevki": "Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jimi Gower",
+    "yaş": 20,
+    "takım": "Arsenal",
+    "mevki": "Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jack Henry-Francis",
+    "yaş": 21,
+    "takım": "Arsenal",
+    "mevki": "Midfield",
+    "uyruk": "Ireland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Michał Rosiak",
+    "yaş": 19,
+    "takım": "Arsenal",
+    "mevki": "Midfield",
+    "uyruk": "Poland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Ismeal Kabia",
+    "yaş": 19,
+    "takım": "Arsenal",
+    "mevki": "Offence",
+    "uyruk": "Netherlands",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jurrien Timber",
+    "yaş": 23,
+    "takım": "Arsenal",
+    "mevki": "Right-Back",
+    "uyruk": "Netherlands",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "William Saliba",
+    "yaş": 24,
+    "takım": "Arsenal",
+    "mevki": "Centre-Back",
+    "uyruk": "France",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Martinelli",
+    "yaş": 23,
+    "takım": "Arsenal",
+    "mevki": "Left Winger",
+    "uyruk": "Brazil",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Gabriel",
+    "yaş": 27,
+    "takım": "Arsenal",
+    "mevki": "Centre-Back",
+    "uyruk": "Brazil",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Kieran Tierney",
+    "yaş": 27,
+    "takım": "Arsenal",
+    "mevki": "Left-Back",
+    "uyruk": "Scotland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Takehiro Tomiyasu",
+    "yaş": 26,
+    "takım": "Arsenal",
+    "mevki": "Right-Back",
+    "uyruk": "Japan",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Leandro Trossard",
+    "yaş": 30,
+    "takım": "Arsenal",
+    "mevki": "Left Winger",
+    "uyruk": "Belgium",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Declan Rice",
+    "yaş": 26,
+    "takım": "Arsenal",
+    "mevki": "Central Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Mikel Merino",
+    "yaş": 28,
+    "takım": "Arsenal",
+    "mevki": "Central Midfield",
+    "uyruk": "Spain",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Oleksandr Zinchenko",
+    "yaş": 28,
+    "takım": "Arsenal",
+    "mevki": "Left-Back",
+    "uyruk": "Ukraine",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Martin Ødegaard",
+    "yaş": 26,
+    "takım": "Arsenal",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Norway",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Ben White",
+    "yaş": 27,
+    "takım": "Arsenal",
+    "mevki": "Right-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Raheem Sterling",
+    "yaş": 30,
+    "takım": "Arsenal",
+    "mevki": "Right Winger",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Gabriel Jesus",
+    "yaş": 28,
+    "takım": "Arsenal",
+    "mevki": "Centre-Forward",
+    "uyruk": "Brazil",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jorginho",
+    "yaş": 33,
+    "takım": "Arsenal",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Italy",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Kai Havertz",
+    "yaş": 25,
+    "takım": "Arsenal",
+    "mevki": "Centre-Forward",
+    "uyruk": "Germany",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Thomas Partey",
+    "yaş": 31,
+    "takım": "Arsenal",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Ghana",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Myles Lewis-Skelly",
+    "yaş": 18,
+    "takım": "Arsenal",
+    "mevki": "Left-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Ethan Nwaneri",
+    "yaş": 18,
+    "takım": "Arsenal",
+    "mevki": "Attacking Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jakub Kiwior",
+    "yaş": 25,
+    "takım": "Arsenal",
+    "mevki": "Centre-Back",
+    "uyruk": "Poland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Riccardo Calafiori",
+    "yaş": 22,
+    "takım": "Arsenal",
+    "mevki": "Left-Back",
+    "uyruk": "Italy",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Bukayo Saka",
+    "yaş": 23,
+    "takım": "Arsenal",
+    "mevki": "Right Winger",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Ederson",
+    "yaş": 31,
+    "takım": "Manchester City",
+    "mevki": "Goalkeeper",
+    "uyruk": "Brazil",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Scott Carson",
+    "yaş": 39,
+    "takım": "Manchester City",
+    "mevki": "Goalkeeper",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Stefan Ortega Moreno",
+    "yaş": 32,
+    "takım": "Manchester City",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Max Hudson",
+    "yaş": 17,
+    "takım": "Manchester City",
+    "mevki": "Goalkeeper",
+    "uyruk": "Wales",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Spike Brits",
+    "yaş": 17,
+    "takım": "Manchester City",
+    "mevki": "Goalkeeper",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Kaden Braithwaite",
+    "yaş": 17,
+    "takım": "Manchester City",
+    "mevki": "Defence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Nico O'Reilly",
+    "yaş": 20,
+    "takım": "Manchester City",
+    "mevki": "Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Farid Alfa-Ruprecht",
+    "yaş": 19,
+    "takım": "Manchester City",
+    "mevki": "Offence",
+    "uyruk": "Germany",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jeremy Doku",
+    "yaş": 22,
+    "takım": "Manchester City",
+    "mevki": "Left Winger",
+    "uyruk": "Belgium",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Matheus Nunes",
+    "yaş": 26,
+    "takım": "Manchester City",
+    "mevki": "Central Midfield",
+    "uyruk": "Portugal",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Omar Marmoush",
+    "yaş": 26,
+    "takım": "Manchester City",
+    "mevki": "Centre-Forward",
+    "uyruk": "Egypt",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Erling Haaland",
+    "yaş": 24,
+    "takım": "Manchester City",
+    "mevki": "Centre-Forward",
+    "uyruk": "Norway",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Rúben Dias",
+    "yaş": 28,
+    "takım": "Manchester City",
+    "mevki": "Centre-Back",
+    "uyruk": "Portugal",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Nathan Aké",
+    "yaş": 30,
+    "takım": "Manchester City",
+    "mevki": "Centre-Back",
+    "uyruk": "Netherlands",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Phil Foden",
+    "yaş": 24,
+    "takım": "Manchester City",
+    "mevki": "Right Winger",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jack Grealish",
+    "yaş": 29,
+    "takım": "Manchester City",
+    "mevki": "Left Winger",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Kevin De Bruyne",
+    "yaş": 33,
+    "takım": "Manchester City",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Belgium",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "John Stones",
+    "yaş": 30,
+    "takım": "Manchester City",
+    "mevki": "Centre-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Bernardo Silva",
+    "yaş": 30,
+    "takım": "Manchester City",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Portugal",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Rodri",
+    "yaş": 28,
+    "takım": "Manchester City",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Spain",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Ilkay Gündogan",
+    "yaş": 34,
+    "takım": "Manchester City",
+    "mevki": "Central Midfield",
+    "uyruk": "Germany",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Manuel Akanji",
+    "yaş": 29,
+    "takım": "Manchester City",
+    "mevki": "Centre-Back",
+    "uyruk": "Switzerland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Mateo Kovačić",
+    "yaş": 31,
+    "takım": "Manchester City",
+    "mevki": "Central Midfield",
+    "uyruk": "Croatia",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jahmai Simpson-Pusey",
+    "yaş": 19,
+    "takım": "Manchester City",
+    "mevki": "Centre-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Vitor Reis",
+    "yaş": 19,
+    "takım": "Manchester City",
+    "mevki": "Centre-Back",
+    "uyruk": "Brazil",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Max Alleyne",
+    "yaş": 19,
+    "takım": "Manchester City",
+    "mevki": "Centre-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Abdukodir Khusanov",
+    "yaş": 21,
+    "takım": "Manchester City",
+    "mevki": "Centre-Back",
+    "uyruk": "Uzbekistan",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Claudio Echeverri",
+    "yaş": 19,
+    "takım": "Manchester City",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Argentina",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Divin Mubama",
+    "yaş": 20,
+    "takım": "Manchester City",
+    "mevki": "Centre-Forward",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Rico Lewis",
+    "yaş": 20,
+    "takım": "Manchester City",
+    "mevki": "Right-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Oscar Bobb",
+    "yaş": 21,
+    "takım": "Manchester City",
+    "mevki": "Right Winger",
+    "uyruk": "Norway",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Christian McFarlane",
+    "yaş": 18,
+    "takım": "Manchester City",
+    "mevki": "Left-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "James McAtee",
+    "yaş": 22,
+    "takım": "Manchester City",
+    "mevki": "Attacking Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Nico Gonzalez",
+    "yaş": 23,
+    "takım": "Manchester City",
+    "mevki": "Central Midfield",
+    "uyruk": "Spain",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Sávio",
+    "yaş": 21,
+    "takım": "Manchester City",
+    "mevki": "Right Winger",
+    "uyruk": "Brazil",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Joško Gvardiol",
+    "yaş": 23,
+    "takım": "Manchester City",
+    "mevki": "Left-Back",
+    "uyruk": "Croatia",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "André Onana",
+    "yaş": 29,
+    "takım": "Manchester United",
+    "mevki": "Goalkeeper",
+    "uyruk": "Cameroon",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Tom Heaton",
+    "yaş": 39,
+    "takım": "Manchester United",
+    "mevki": "Goalkeeper",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Altay Bayındır",
+    "yaş": 27,
+    "takım": "Manchester United",
+    "mevki": "Goalkeeper",
+    "uyruk": "Turkey",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Dermot Mee",
+    "yaş": 22,
+    "takım": "Manchester United",
+    "mevki": "Goalkeeper",
+    "uyruk": "Northern Ireland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Elyh Harrison",
+    "yaş": 19,
+    "takım": "Manchester United",
+    "mevki": "Goalkeeper",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Will Murdock",
+    "yaş": 17,
+    "takım": "Manchester United",
+    "mevki": "Goalkeeper",
+    "uyruk": "Northern Ireland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Tyler Fredricson",
+    "yaş": 20,
+    "takım": "Manchester United",
+    "mevki": "Defence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Godwill Kukonki",
+    "yaş": 17,
+    "takım": "Manchester United",
+    "mevki": "Defence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jaydan Kamason",
+    "yaş": 18,
+    "takım": "Manchester United",
+    "mevki": "Defence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Bendito Mantato",
+    "yaş": 17,
+    "takım": "Manchester United",
+    "mevki": "Defence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "James Scanlon",
+    "yaş": 18,
+    "takım": "Manchester United",
+    "mevki": "Midfield",
+    "uyruk": "Gibraltar",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jack Fletcher",
+    "yaş": 18,
+    "takım": "Manchester United",
+    "mevki": "Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jayce Fitzgerald",
+    "yaş": 18,
+    "takım": "Manchester United",
+    "mevki": "Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jack Moorhouse",
+    "yaş": 19,
+    "takım": "Manchester United",
+    "mevki": "Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Sékou Koné",
+    "yaş": 19,
+    "takım": "Manchester United",
+    "mevki": "Midfield",
+    "uyruk": "Mali",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Chido Obi-Martin",
+    "yaş": 17,
+    "takım": "Manchester United",
+    "mevki": "Offence",
+    "uyruk": "Denmark",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Alejandro Garnacho",
+    "yaş": 20,
+    "takım": "Manchester United",
+    "mevki": "Left Winger",
+    "uyruk": "Argentina",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Rasmus Højlund",
+    "yaş": 22,
+    "takım": "Manchester United",
+    "mevki": "Centre-Forward",
+    "uyruk": "Denmark",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Amad Diallo",
+    "yaş": 22,
+    "takım": "Manchester United",
+    "mevki": "Right Winger",
+    "uyruk": "Ivory Coast",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Joshua Zirkzee",
+    "yaş": 23,
+    "takım": "Manchester United",
+    "mevki": "Centre-Forward",
+    "uyruk": "Netherlands",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Lisandro Martínez",
+    "yaş": 27,
+    "takım": "Manchester United",
+    "mevki": "Centre-Back",
+    "uyruk": "Argentina",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Manuel Ugarte",
+    "yaş": 24,
+    "takım": "Manchester United",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Uruguay",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Diogo Dalot",
+    "yaş": 26,
+    "takım": "Manchester United",
+    "mevki": "Right-Back",
+    "uyruk": "Portugal",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jonny Evans",
+    "yaş": 37,
+    "takım": "Manchester United",
+    "mevki": "Centre-Back",
+    "uyruk": "Northern Ireland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Luke Shaw",
+    "yaş": 29,
+    "takım": "Manchester United",
+    "mevki": "Left-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Mason Mount",
+    "yaş": 26,
+    "takım": "Manchester United",
+    "mevki": "Attacking Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Noussair Mazraoui",
+    "yaş": 27,
+    "takım": "Manchester United",
+    "mevki": "Right-Back",
+    "uyruk": "Morocco",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Matthijs de Ligt",
+    "yaş": 25,
+    "takım": "Manchester United",
+    "mevki": "Centre-Back",
+    "uyruk": "Netherlands",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Victor Nilsson-Lindelöf",
+    "yaş": 30,
+    "takım": "Manchester United",
+    "mevki": "Centre-Back",
+    "uyruk": "Sweden",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Christian Eriksen",
+    "yaş": 33,
+    "takım": "Manchester United",
+    "mevki": "Central Midfield",
+    "uyruk": "Denmark",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Harry Maguire",
+    "yaş": 32,
+    "takım": "Manchester United",
+    "mevki": "Centre-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Bruno Fernandes",
+    "yaş": 30,
+    "takım": "Manchester United",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Portugal",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Casemiro",
+    "yaş": 33,
+    "takım": "Manchester United",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Brazil",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Habeeb Ogunneye",
+    "yaş": 19,
+    "takım": "Manchester United",
+    "mevki": "Right-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Toby Collyer",
+    "yaş": 21,
+    "takım": "Manchester United",
+    "mevki": "Defensive Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Ayden Heaven",
+    "yaş": 18,
+    "takım": "Manchester United",
+    "mevki": "Centre-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Patrick Dorgu",
+    "yaş": 20,
+    "takım": "Manchester United",
+    "mevki": "Left-Back",
+    "uyruk": "Denmark",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Harry Amass",
+    "yaş": 18,
+    "takım": "Manchester United",
+    "mevki": "Left-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Kobbie Mainoo",
+    "yaş": 20,
+    "takım": "Manchester United",
+    "mevki": "Central Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Leny Yoro",
+    "yaş": 19,
+    "takım": "Manchester United",
+    "mevki": "Centre-Back",
+    "uyruk": "France",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Alisson",
+    "yaş": 32,
+    "takım": "Liverpool",
+    "mevki": "Goalkeeper",
+    "uyruk": "Brazil",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Caoimhin Kelleher",
+    "yaş": 26,
+    "takım": "Liverpool",
+    "mevki": "Goalkeeper",
+    "uyruk": "Ireland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Vítězslav Jaroš",
+    "yaş": 23,
+    "takım": "Liverpool",
+    "mevki": "Goalkeeper",
+    "uyruk": "Czech Republic",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Harvey Davies",
+    "yaş": 21,
+    "takım": "Liverpool",
+    "mevki": "Goalkeeper",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Isaac Mabaya",
+    "yaş": 20,
+    "takım": "Liverpool",
+    "mevki": "Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Kieran Morrison",
+    "yaş": 18,
+    "takım": "Liverpool",
+    "mevki": "Midfield",
+    "uyruk": "Northern Ireland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Ranel Young",
+    "yaş": 19,
+    "takım": "Liverpool",
+    "mevki": "Offence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Rio Ngumoha",
+    "yaş": 16,
+    "takım": "Liverpool",
+    "mevki": "Offence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Trent Doherty",
+    "yaş": 18,
+    "takım": "Liverpool",
+    "mevki": "Offence",
+    "uyruk": "Ireland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Alexis Mac Allister",
+    "yaş": 26,
+    "takım": "Liverpool",
+    "mevki": "Central Midfield",
+    "uyruk": "Argentina",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Darwin Núñez",
+    "yaş": 25,
+    "takım": "Liverpool",
+    "mevki": "Centre-Forward",
+    "uyruk": "Uruguay",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Luis Díaz",
+    "yaş": 28,
+    "takım": "Liverpool",
+    "mevki": "Left Winger",
+    "uyruk": "Colombia",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Dominik Szoboszlai",
+    "yaş": 24,
+    "takım": "Liverpool",
+    "mevki": "Central Midfield",
+    "uyruk": "Hungary",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Ibrahima Konaté",
+    "yaş": 25,
+    "takım": "Liverpool",
+    "mevki": "Centre-Back",
+    "uyruk": "France",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Curtis Jones",
+    "yaş": 24,
+    "takım": "Liverpool",
+    "mevki": "Central Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Virgil van Dijk",
+    "yaş": 33,
+    "takım": "Liverpool",
+    "mevki": "Centre-Back",
+    "uyruk": "Netherlands",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Andrew Robertson",
+    "yaş": 31,
+    "takım": "Liverpool",
+    "mevki": "Left-Back",
+    "uyruk": "Scotland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Trent Alexander-Arnold",
+    "yaş": 26,
+    "takım": "Liverpool",
+    "mevki": "Right-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Joe Gomez",
+    "yaş": 27,
+    "takım": "Liverpool",
+    "mevki": "Centre-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Cody Gakpo",
+    "yaş": 26,
+    "takım": "Liverpool",
+    "mevki": "Left Winger",
+    "uyruk": "Netherlands",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Kostas Tsimikas",
+    "yaş": 29,
+    "takım": "Liverpool",
+    "mevki": "Left-Back",
+    "uyruk": "Greece",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Diogo Jota",
+    "yaş": 28,
+    "takım": "Liverpool",
+    "mevki": "Centre-Forward",
+    "uyruk": "Portugal",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Mohamed Salah",
+    "yaş": 32,
+    "takım": "Liverpool",
+    "mevki": "Right Winger",
+    "uyruk": "Egypt",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Wataru Endō",
+    "yaş": 32,
+    "takım": "Liverpool",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Japan",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Federico Chiesa",
+    "yaş": 27,
+    "takım": "Liverpool",
+    "mevki": "Right Winger",
+    "uyruk": "Italy",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Amara Nallo",
+    "yaş": 18,
+    "takım": "Liverpool",
+    "mevki": "Centre-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Trey Nyoni",
+    "yaş": 17,
+    "takım": "Liverpool",
+    "mevki": "Attacking Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "James McConnell",
+    "yaş": 20,
+    "takım": "Liverpool",
+    "mevki": "Central Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Jarell Quansah",
+    "yaş": 22,
+    "takım": "Liverpool",
+    "mevki": "Centre-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Conor Bradley",
+    "yaş": 21,
+    "takım": "Liverpool",
+    "mevki": "Right-Back",
+    "uyruk": "Northern Ireland",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Tyler Morton",
+    "yaş": 22,
+    "takım": "Liverpool",
+    "mevki": "Defensive Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Harvey Elliott",
+    "yaş": 22,
+    "takım": "Liverpool",
+    "mevki": "Central Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Ryan Gravenberch",
+    "yaş": 23,
+    "takım": "Liverpool",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Netherlands",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Guglielmo Vicario",
+    "yaş": 28,
+    "takım": "Tottenham",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Alfie Whiteman",
+    "yaş": 26,
+    "takım": "Tottenham",
+    "mevki": "Goalkeeper",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Fraser Forster",
+    "yaş": 37,
+    "takım": "Tottenham",
+    "mevki": "Goalkeeper",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Brandon Austin",
+    "yaş": 26,
+    "takım": "Tottenham",
+    "mevki": "Goalkeeper",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Antonín Kinský",
+    "yaş": 22,
+    "takım": "Tottenham",
+    "mevki": "Goalkeeper",
+    "uyruk": "Czech Republic",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Malachi Hardy",
+    "yaş": 17,
+    "takım": "Tottenham",
+    "mevki": "Defence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Maeson King",
+    "yaş": 19,
+    "takım": "Tottenham",
+    "mevki": "Defence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Dante Cassanova",
+    "yaş": 20,
+    "takım": "Tottenham",
+    "mevki": "Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Callum Olusesi",
+    "yaş": 18,
+    "takım": "Tottenham",
+    "mevki": "Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Rio Kyerematen",
+    "yaş": 19,
+    "takım": "Tottenham",
+    "mevki": "Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Damola Ajayi",
+    "yaş": 19,
+    "takım": "Tottenham",
+    "mevki": "Offence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Luca Williams-Barnett",
+    "yaş": 16,
+    "takım": "Tottenham",
+    "mevki": "Offence",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Radu Drăgușin",
+    "yaş": 23,
+    "takım": "Tottenham",
+    "mevki": "Centre-Back",
+    "uyruk": "Romania",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Mickey van de Ven",
+    "yaş": 24,
+    "takım": "Tottenham",
+    "mevki": "Centre-Back",
+    "uyruk": "Netherlands",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Brennan Johnson",
+    "yaş": 23,
+    "takım": "Tottenham",
+    "mevki": "Right Winger",
+    "uyruk": "Wales",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Pedro Porro",
+    "yaş": 25,
+    "takım": "Tottenham",
+    "mevki": "Right-Back",
+    "uyruk": "Spain",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Djed Spence",
+    "yaş": 24,
+    "takım": "Tottenham",
+    "mevki": "Right-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Reguilón",
+    "yaş": 28,
+    "takım": "Tottenham",
+    "mevki": "Left-Back",
+    "uyruk": "Spain",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Christian Romero",
+    "yaş": 27,
+    "takım": "Tottenham",
+    "mevki": "Centre-Back",
+    "uyruk": "Argentina",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Yves Bissouma",
+    "yaş": 28,
+    "takım": "Tottenham",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Mali",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Richarlison",
+    "yaş": 28,
+    "takım": "Tottenham",
+    "mevki": "Centre-Forward",
+    "uyruk": "Brazil",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Ben Davies",
+    "yaş": 32,
+    "takım": "Tottenham",
+    "mevki": "Centre-Back",
+    "uyruk": "Wales",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Dominic Solanke",
+    "yaş": 27,
+    "takım": "Tottenham",
+    "mevki": "Centre-Forward",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Kevin Danso",
+    "yaş": 26,
+    "takım": "Tottenham",
+    "mevki": "Centre-Back",
+    "uyruk": "Austria",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "James Maddison",
+    "yaş": 28,
+    "takım": "Tottenham",
+    "mevki": "Attacking Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Timo Werner",
+    "yaş": 29,
+    "takım": "Tottenham",
+    "mevki": "Left Winger",
+    "uyruk": "Germany",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Rodrigo Bentancur",
+    "yaş": 27,
+    "takım": "Tottenham",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Uruguay",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Dejan Kulusevski",
+    "yaş": 25,
+    "takım": "Tottenham",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Sweden",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Tyrese Hall",
+    "yaş": 19,
+    "takım": "Tottenham",
+    "mevki": "Central Midfield",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Mikey Moore",
+    "yaş": 17,
+    "takım": "Tottenham",
+    "mevki": "Left Winger",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Lucas Bergvall",
+    "yaş": 19,
+    "takım": "Tottenham",
+    "mevki": "Central Midfield",
+    "uyruk": "Sweden",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Wilson Odobert",
+    "yaş": 20,
+    "takım": "Tottenham",
+    "mevki": "Right Winger",
+    "uyruk": "France",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Archie Gray",
+    "yaş": 19,
+    "takım": "Tottenham",
+    "mevki": "Right-Back",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Mathys Tel",
+    "yaş": 20,
+    "takım": "Tottenham",
+    "mevki": "Centre-Forward",
+    "uyruk": "France",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Pape Sarr",
+    "yaş": 22,
+    "takım": "Tottenham",
+    "mevki": "Central Midfield",
+    "uyruk": "Senegal",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Destiny Udogie",
+    "yaş": 22,
+    "takım": "Tottenham",
+    "mevki": "Left-Back",
+    "uyruk": "Italy",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Heung-min Son",
+    "yaş": 32,
+    "takım": "Tottenham",
+    "mevki": "Left Winger",
+    "uyruk": "South Korea",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Dane Scarlett",
+    "yaş": 21,
+    "takım": "Tottenham",
+    "mevki": "Centre-Forward",
+    "uyruk": "England",
+    "lig": "Premier Lig"
+  },
+  {
+    "isim": "Thibaut Courtois",
+    "yaş": 33,
+    "takım": "Real Madrid",
+    "mevki": "Goalkeeper",
+    "uyruk": "Belgium",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Andriy Lunin",
+    "yaş": 26,
+    "takım": "Real Madrid",
+    "mevki": "Goalkeeper",
+    "uyruk": "Ukraine",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Sergio Mestre",
+    "yaş": 20,
+    "takım": "Real Madrid",
+    "mevki": "Goalkeeper",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Fran Gonzalez",
+    "yaş": 19,
+    "takım": "Real Madrid",
+    "mevki": "Goalkeeper",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Fran García",
+    "yaş": 25,
+    "takım": "Real Madrid",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "David Jiménez",
+    "yaş": 21,
+    "takım": "Real Madrid",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Diego Aguado",
+    "yaş": 18,
+    "takım": "Real Madrid",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Loren Aguado",
+    "yaş": 22,
+    "takım": "Real Madrid",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Yusi",
+    "yaş": 19,
+    "takım": "Real Madrid",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Mario Rivas",
+    "yaş": 18,
+    "takım": "Real Madrid",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Víctor Valdepeñas",
+    "yaş": 18,
+    "takım": "Real Madrid",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Chema Andrés",
+    "yaş": 20,
+    "takım": "Real Madrid",
+    "mevki": "Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Hugo De Llanos",
+    "yaş": 20,
+    "takım": "Real Madrid",
+    "mevki": "Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Daniel Yáñez",
+    "yaş": 18,
+    "takım": "Real Madrid",
+    "mevki": "Offence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Víctor Muñoz",
+    "yaş": 21,
+    "takım": "Real Madrid",
+    "mevki": "Offence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Pol Fortuny",
+    "yaş": 20,
+    "takım": "Real Madrid",
+    "mevki": "Offence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Jude Bellingham",
+    "yaş": 21,
+    "takım": "Real Madrid",
+    "mevki": "Attacking Midfield",
+    "uyruk": "England",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Eduardo Camavinga",
+    "yaş": 22,
+    "takım": "Real Madrid",
+    "mevki": "Central Midfield",
+    "uyruk": "France",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Aurélien Tchouameni",
+    "yaş": 25,
+    "takım": "Real Madrid",
+    "mevki": "Defensive Midfield",
+    "uyruk": "France",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Ferland Mendy",
+    "yaş": 29,
+    "takım": "Real Madrid",
+    "mevki": "Left-Back",
+    "uyruk": "France",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Brahim Diaz",
+    "yaş": 25,
+    "takım": "Real Madrid",
+    "mevki": "Right Winger",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Kylian Mbappé",
+    "yaş": 26,
+    "takım": "Real Madrid",
+    "mevki": "Centre-Forward",
+    "uyruk": "France",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Dani Carvajal",
+    "yaş": 33,
+    "takım": "Real Madrid",
+    "mevki": "Right-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Antonio Rüdiger",
+    "yaş": 32,
+    "takım": "Real Madrid",
+    "mevki": "Centre-Back",
+    "uyruk": "Germany",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Vinicius Junior",
+    "yaş": 24,
+    "takım": "Real Madrid",
+    "mevki": "Left Winger",
+    "uyruk": "Brazil",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Éder Militão",
+    "yaş": 27,
+    "takım": "Real Madrid",
+    "mevki": "Centre-Back",
+    "uyruk": "Brazil",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Rodrygo",
+    "yaş": 24,
+    "takım": "Real Madrid",
+    "mevki": "Right Winger",
+    "uyruk": "Brazil",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "David Alaba",
+    "yaş": 32,
+    "takım": "Real Madrid",
+    "mevki": "Centre-Back",
+    "uyruk": "Austria",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Federico Valverde",
+    "yaş": 26,
+    "takım": "Real Madrid",
+    "mevki": "Central Midfield",
+    "uyruk": "Uruguay",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Dani Ceballos",
+    "yaş": 28,
+    "takım": "Real Madrid",
+    "mevki": "Central Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Jesús Vallejo",
+    "yaş": 28,
+    "takım": "Real Madrid",
+    "mevki": "Centre-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Lucas Vázquez",
+    "yaş": 33,
+    "takım": "Real Madrid",
+    "mevki": "Right-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Luka Modrić",
+    "yaş": 39,
+    "takım": "Real Madrid",
+    "mevki": "Central Midfield",
+    "uyruk": "Croatia",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Raúl",
+    "yaş": 22,
+    "takım": "Real Madrid",
+    "mevki": "Centre-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Jacobo Ramón",
+    "yaş": 19,
+    "takım": "Real Madrid",
+    "mevki": "Centre-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Gonzalo García",
+    "yaş": 21,
+    "takım": "Real Madrid",
+    "mevki": "Right Winger",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Endrick",
+    "yaş": 18,
+    "takım": "Real Madrid",
+    "mevki": "Centre-Forward",
+    "uyruk": "Brazil",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Arda Guler",
+    "yaş": 20,
+    "takım": "Real Madrid",
+    "mevki": "Right Winger",
+    "uyruk": "Turkey",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Wojciech Szczęsny",
+    "yaş": 35,
+    "takım": "Barcelona",
+    "mevki": "Goalkeeper",
+    "uyruk": "Poland",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Marc-André ter Stegen",
+    "yaş": 33,
+    "takım": "Barcelona",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Iñaki Peña",
+    "yaş": 26,
+    "takım": "Barcelona",
+    "mevki": "Goalkeeper",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Ander Astralaga",
+    "yaş": 21,
+    "takım": "Barcelona",
+    "mevki": "Goalkeeper",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Diego Kochen",
+    "yaş": 19,
+    "takım": "Barcelona",
+    "mevki": "Goalkeeper",
+    "uyruk": "USA",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Áron Yaakobishvili",
+    "yaş": 19,
+    "takım": "Barcelona",
+    "mevki": "Goalkeeper",
+    "uyruk": "Hungary",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Andrés Cuenca",
+    "yaş": 17,
+    "takım": "Barcelona",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Álvaro Cortés",
+    "yaş": 20,
+    "takım": "Barcelona",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Alexis Olmedo",
+    "yaş": 19,
+    "takım": "Barcelona",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Landry Farré",
+    "yaş": 18,
+    "takım": "Barcelona",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Noah Darvich",
+    "yaş": 18,
+    "takım": "Barcelona",
+    "mevki": "Midfield",
+    "uyruk": "Germany",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Guille Fernández",
+    "yaş": 16,
+    "takım": "Barcelona",
+    "mevki": "Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Dani Rodríguez",
+    "yaş": 19,
+    "takım": "Barcelona",
+    "mevki": "Offence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Toni Fernández",
+    "yaş": 16,
+    "takım": "Barcelona",
+    "mevki": "Offence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Álex Balde",
+    "yaş": 21,
+    "takım": "Barcelona",
+    "mevki": "Left-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Pablo Gavira",
+    "yaş": 20,
+    "takım": "Barcelona",
+    "mevki": "Central Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Pablo Torre",
+    "yaş": 22,
+    "takım": "Barcelona",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Pau Victor Delgado",
+    "yaş": 23,
+    "takım": "Barcelona",
+    "mevki": "Centre-Forward",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Pedri",
+    "yaş": 22,
+    "takım": "Barcelona",
+    "mevki": "Central Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Ansu Fati",
+    "yaş": 22,
+    "takım": "Barcelona",
+    "mevki": "Left Winger",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Eric García",
+    "yaş": 24,
+    "takım": "Barcelona",
+    "mevki": "Centre-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Raphinha",
+    "yaş": 28,
+    "takım": "Barcelona",
+    "mevki": "Left Winger",
+    "uyruk": "Brazil",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Ferrán Torres",
+    "yaş": 25,
+    "takım": "Barcelona",
+    "mevki": "Right Winger",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Íñigo Martínez",
+    "yaş": 34,
+    "takım": "Barcelona",
+    "mevki": "Centre-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Ronald Araújo",
+    "yaş": 26,
+    "takım": "Barcelona",
+    "mevki": "Centre-Back",
+    "uyruk": "Uruguay",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Dani Olmo",
+    "yaş": 27,
+    "takım": "Barcelona",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Jules Koundé",
+    "yaş": 26,
+    "takım": "Barcelona",
+    "mevki": "Right-Back",
+    "uyruk": "France",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Frenkie de Jong",
+    "yaş": 28,
+    "takım": "Barcelona",
+    "mevki": "Central Midfield",
+    "uyruk": "Netherlands",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Andreas Christensen",
+    "yaş": 29,
+    "takım": "Barcelona",
+    "mevki": "Centre-Back",
+    "uyruk": "Denmark",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Robert Lewandowski",
+    "yaş": 36,
+    "takım": "Barcelona",
+    "mevki": "Centre-Forward",
+    "uyruk": "Poland",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Sergi Domínguez",
+    "yaş": 20,
+    "takım": "Barcelona",
+    "mevki": "Centre-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Marc Bernal",
+    "yaş": 17,
+    "takım": "Barcelona",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Gerard Martín",
+    "yaş": 23,
+    "takım": "Barcelona",
+    "mevki": "Left-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Héctor Fort",
+    "yaş": 18,
+    "takım": "Barcelona",
+    "mevki": "Right-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Pau Cubarsí",
+    "yaş": 18,
+    "takım": "Barcelona",
+    "mevki": "Centre-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Fermín López",
+    "yaş": 22,
+    "takım": "Barcelona",
+    "mevki": "Central Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Lamine Yamal",
+    "yaş": 17,
+    "takım": "Barcelona",
+    "mevki": "Right Winger",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Marc Casado",
+    "yaş": 21,
+    "takım": "Barcelona",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Jan Oblak",
+    "yaş": 32,
+    "takım": "Atletico Madrid",
+    "mevki": "Goalkeeper",
+    "uyruk": "Slovenia",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Juan Musso",
+    "yaş": 31,
+    "takım": "Atletico Madrid",
+    "mevki": "Goalkeeper",
+    "uyruk": "Argentina",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Alejandro Iturbe",
+    "yaş": 21,
+    "takım": "Atletico Madrid",
+    "mevki": "Goalkeeper",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Gomis",
+    "yaş": 21,
+    "takım": "Atletico Madrid",
+    "mevki": "Goalkeeper",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Carlos Gimenez",
+    "yaş": 22,
+    "takım": "Atletico Madrid",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Javi Galán",
+    "yaş": 30,
+    "takım": "Atletico Madrid",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "José Giménez",
+    "yaş": 30,
+    "takım": "Atletico Madrid",
+    "mevki": "Defence",
+    "uyruk": "Uruguay",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Gerónimo Spina",
+    "yaş": 20,
+    "takım": "Atletico Madrid",
+    "mevki": "Defence",
+    "uyruk": "Argentina",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Javier Serrano",
+    "yaş": 22,
+    "takım": "Atletico Madrid",
+    "mevki": "Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Pablo Barrios",
+    "yaş": 21,
+    "takım": "Atletico Madrid",
+    "mevki": "Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Adrián",
+    "yaş": 20,
+    "takım": "Atletico Madrid",
+    "mevki": "Offence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Omar",
+    "yaş": 18,
+    "takım": "Atletico Madrid",
+    "mevki": "Offence",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Robin Le Normand",
+    "yaş": 28,
+    "takım": "Atletico Madrid",
+    "mevki": "Centre-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Julián Álvarez",
+    "yaş": 25,
+    "takım": "Atletico Madrid",
+    "mevki": "Centre-Forward",
+    "uyruk": "Argentina",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Borja Garcés",
+    "yaş": 25,
+    "takım": "Atletico Madrid",
+    "mevki": "Centre-Forward",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Nahuel Molina",
+    "yaş": 27,
+    "takım": "Atletico Madrid",
+    "mevki": "Right-Back",
+    "uyruk": "Argentina",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Reinildo",
+    "yaş": 31,
+    "takım": "Atletico Madrid",
+    "mevki": "Left-Back",
+    "uyruk": "Mozambique",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Alexander Sørloth",
+    "yaş": 29,
+    "takım": "Atletico Madrid",
+    "mevki": "Centre-Forward",
+    "uyruk": "Norway",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Axel Witsel",
+    "yaş": 36,
+    "takım": "Atletico Madrid",
+    "mevki": "Centre-Back",
+    "uyruk": "Belgium",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Thomas Lemar",
+    "yaş": 29,
+    "takım": "Atletico Madrid",
+    "mevki": "Attacking Midfield",
+    "uyruk": "France",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Azpilicueta",
+    "yaş": 35,
+    "takım": "Atletico Madrid",
+    "mevki": "Centre-Back",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Rodrigo de Paul",
+    "yaş": 30,
+    "takım": "Atletico Madrid",
+    "mevki": "Central Midfield",
+    "uyruk": "Argentina",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Ángel Correa",
+    "yaş": 30,
+    "takım": "Atletico Madrid",
+    "mevki": "Right Winger",
+    "uyruk": "Argentina",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Antoine Griezmann",
+    "yaş": 34,
+    "takım": "Atletico Madrid",
+    "mevki": "Centre-Forward",
+    "uyruk": "France",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Koke",
+    "yaş": 33,
+    "takım": "Atletico Madrid",
+    "mevki": "Central Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Marcos Llorente",
+    "yaş": 30,
+    "takım": "Atletico Madrid",
+    "mevki": "Right Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Clément Lenglet",
+    "yaş": 29,
+    "takım": "Atletico Madrid",
+    "mevki": "Centre-Back",
+    "uyruk": "France",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Rayane Belaid",
+    "yaş": 19,
+    "takım": "Atletico Madrid",
+    "mevki": "Left Winger",
+    "uyruk": "Algeria",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Ilias Kostis",
+    "yaş": 22,
+    "takım": "Atletico Madrid",
+    "mevki": "Centre-Back",
+    "uyruk": "Cyprus",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Aitor Gismera",
+    "yaş": 21,
+    "takım": "Atletico Madrid",
+    "mevki": "Central Midfield",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Samuel Lino",
+    "yaş": 25,
+    "takım": "Atletico Madrid",
+    "mevki": "Left Winger",
+    "uyruk": "Brazil",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Giuliano Simeone",
+    "yaş": 22,
+    "takım": "Atletico Madrid",
+    "mevki": "Right Winger",
+    "uyruk": "Argentina",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Rodrigo Riquelme",
+    "yaş": 25,
+    "takım": "Atletico Madrid",
+    "mevki": "Left Winger",
+    "uyruk": "Spain",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Conor Gallagher",
+    "yaş": 25,
+    "takım": "Atletico Madrid",
+    "mevki": "Central Midfield",
+    "uyruk": "England",
+    "lig": "La Liga"
+  },
+  {
+    "isim": "Manuel Neuer",
+    "yaş": 39,
+    "takım": "Bayern Münih",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Sven Ulreich",
+    "yaş": 36,
+    "takım": "Bayern Münih",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Daniel Peretz",
+    "yaş": 24,
+    "takım": "Bayern Münih",
+    "mevki": "Goalkeeper",
+    "uyruk": "Israel",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Jonas Urbig",
+    "yaş": 21,
+    "takım": "Bayern Münih",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Max Schmitt",
+    "yaş": 19,
+    "takım": "Bayern Münih",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Anthony Pavlešić",
+    "yaş": 19,
+    "takım": "Bayern Münih",
+    "mevki": "Goalkeeper",
+    "uyruk": "Australia",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Leon Klanac",
+    "yaş": 18,
+    "takım": "Bayern Münih",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Gabriel Vidovic",
+    "yaş": 21,
+    "takım": "Bayern Münih",
+    "mevki": "Midfield",
+    "uyruk": "Croatia",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Lennart Karl",
+    "yaş": 17,
+    "takım": "Bayern Münih",
+    "mevki": "Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Thomas Müller",
+    "yaş": 35,
+    "takım": "Bayern Münih",
+    "mevki": "Offence",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Jonah Kusi-Asare",
+    "yaş": 17,
+    "takım": "Bayern Münih",
+    "mevki": "Offence",
+    "uyruk": "Sweden",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Wisdom Mike",
+    "yaş": 16,
+    "takım": "Bayern Münih",
+    "mevki": "Offence",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Hiroki Ito",
+    "yaş": 26,
+    "takım": "Bayern Münih",
+    "mevki": "Centre-Back",
+    "uyruk": "Japan",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Alphonso Davies",
+    "yaş": 24,
+    "takım": "Bayern Münih",
+    "mevki": "Left-Back",
+    "uyruk": "Canada",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "João Palhinha",
+    "yaş": 29,
+    "takım": "Bayern Münih",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Portugal",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Konrad Laimer",
+    "yaş": 27,
+    "takım": "Bayern Münih",
+    "mevki": "Central Midfield",
+    "uyruk": "Austria",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Dayot Upamecano",
+    "yaş": 26,
+    "takım": "Bayern Münih",
+    "mevki": "Centre-Back",
+    "uyruk": "France",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Harry Kane",
+    "yaş": 31,
+    "takım": "Bayern Münih",
+    "mevki": "Centre-Forward",
+    "uyruk": "England",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Eric Dier",
+    "yaş": 31,
+    "takım": "Bayern Münih",
+    "mevki": "Centre-Back",
+    "uyruk": "England",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Raphaël Guerreiro",
+    "yaş": 31,
+    "takım": "Bayern Münih",
+    "mevki": "Left-Back",
+    "uyruk": "Portugal",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Leroy Sané",
+    "yaş": 29,
+    "takım": "Bayern Münih",
+    "mevki": "Right Winger",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Leon Goretzka",
+    "yaş": 30,
+    "takım": "Bayern Münih",
+    "mevki": "Central Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Kingsley Coman",
+    "yaş": 28,
+    "takım": "Bayern Münih",
+    "mevki": "Left Winger",
+    "uyruk": "France",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Joshua Kimmich",
+    "yaş": 30,
+    "takım": "Bayern Münih",
+    "mevki": "Right-Back",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Serge Gnabry",
+    "yaş": 29,
+    "takım": "Bayern Münih",
+    "mevki": "Right Winger",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Jonathan Asp-Jensen",
+    "yaş": 19,
+    "takım": "Bayern Münih",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Denmark",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Tarek Buchmann",
+    "yaş": 20,
+    "takım": "Bayern Münih",
+    "mevki": "Centre-Back",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Aleksandar Pavlović",
+    "yaş": 21,
+    "takım": "Bayern Münih",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Min-Jae Kim",
+    "yaş": 28,
+    "takım": "Bayern Münih",
+    "mevki": "Centre-Back",
+    "uyruk": "South Korea",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Jamal Musiala",
+    "yaş": 22,
+    "takım": "Bayern Münih",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Josip Stanišić",
+    "yaş": 25,
+    "takım": "Bayern Münih",
+    "mevki": "Right-Back",
+    "uyruk": "Croatia",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Sacha Boey",
+    "yaş": 24,
+    "takım": "Bayern Münih",
+    "mevki": "Right-Back",
+    "uyruk": "France",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Michael Olise",
+    "yaş": 23,
+    "takım": "Bayern Münih",
+    "mevki": "Right Winger",
+    "uyruk": "France",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Gregor Kobel",
+    "yaş": 27,
+    "takım": "Borussia Dortmund",
+    "mevki": "Goalkeeper",
+    "uyruk": "Switzerland",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Alexander Meyer",
+    "yaş": 34,
+    "takım": "Borussia Dortmund",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Marcel Lotka",
+    "yaş": 23,
+    "takım": "Borussia Dortmund",
+    "mevki": "Goalkeeper",
+    "uyruk": "Poland",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Silas Ostrzinski",
+    "yaş": 21,
+    "takım": "Borussia Dortmund",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Robin Lisewski",
+    "yaş": 19,
+    "takım": "Borussia Dortmund",
+    "mevki": "Goalkeeper",
+    "uyruk": "Poland",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Daniel Svensson",
+    "yaş": 23,
+    "takım": "Borussia Dortmund",
+    "mevki": "Defence",
+    "uyruk": "Sweden",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Rodney Elongo-Yombo",
+    "yaş": 23,
+    "takım": "Borussia Dortmund",
+    "mevki": "Defence",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "David Lelle",
+    "yaş": 22,
+    "takım": "Borussia Dortmund",
+    "mevki": "Defence",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Yannik Lührs",
+    "yaş": 21,
+    "takım": "Borussia Dortmund",
+    "mevki": "Defence",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Jordi Paulina",
+    "yaş": 20,
+    "takım": "Borussia Dortmund",
+    "mevki": "Defence",
+    "uyruk": "Netherlands",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Filippo Mané",
+    "yaş": 20,
+    "takım": "Borussia Dortmund",
+    "mevki": "Defence",
+    "uyruk": "Italy",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Tyler Meiser",
+    "yaş": 18,
+    "takım": "Borussia Dortmund",
+    "mevki": "Defence",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Elias Benkara",
+    "yaş": 18,
+    "takım": "Borussia Dortmund",
+    "mevki": "Defence",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Ayman Azhil",
+    "yaş": 24,
+    "takım": "Borussia Dortmund",
+    "mevki": "Midfield",
+    "uyruk": "Morocco",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Niklas Jessen",
+    "yaş": 21,
+    "takım": "Borussia Dortmund",
+    "mevki": "Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Gio Reyna",
+    "yaş": 22,
+    "takım": "Borussia Dortmund",
+    "mevki": "Attacking Midfield",
+    "uyruk": "USA",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Maximilian Beier",
+    "yaş": 22,
+    "takım": "Borussia Dortmund",
+    "mevki": "Centre-Forward",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Felix Kalu Nmecha",
+    "yaş": 24,
+    "takım": "Borussia Dortmund",
+    "mevki": "Central Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Karim Adeyemi",
+    "yaş": 23,
+    "takım": "Borussia Dortmund",
+    "mevki": "Left Winger",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Nico Schlotterbeck",
+    "yaş": 25,
+    "takım": "Borussia Dortmund",
+    "mevki": "Centre-Back",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Julian Ryerson",
+    "yaş": 27,
+    "takım": "Borussia Dortmund",
+    "mevki": "Right-Back",
+    "uyruk": "Norway",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Marcel Sabitzer",
+    "yaş": 31,
+    "takım": "Borussia Dortmund",
+    "mevki": "Central Midfield",
+    "uyruk": "Austria",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Ramy Bensebaini",
+    "yaş": 30,
+    "takım": "Borussia Dortmund",
+    "mevki": "Left-Back",
+    "uyruk": "Algeria",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Pascal Groß",
+    "yaş": 33,
+    "takım": "Borussia Dortmund",
+    "mevki": "Central Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Emre Can",
+    "yaş": 31,
+    "takım": "Borussia Dortmund",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Waldemar Anton",
+    "yaş": 28,
+    "takım": "Borussia Dortmund",
+    "mevki": "Centre-Back",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Niklas Süle",
+    "yaş": 29,
+    "takım": "Borussia Dortmund",
+    "mevki": "Centre-Back",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Sehrou Guirassy",
+    "yaş": 29,
+    "takım": "Borussia Dortmund",
+    "mevki": "Centre-Forward",
+    "uyruk": "Guinea",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Salih Özcan",
+    "yaş": 27,
+    "takım": "Borussia Dortmund",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Turkey",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Julian Brandt",
+    "yaş": 29,
+    "takım": "Borussia Dortmund",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Cole Campbell",
+    "yaş": 19,
+    "takım": "Borussia Dortmund",
+    "mevki": "Right Winger",
+    "uyruk": "USA",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Almugera Kabar",
+    "yaş": 18,
+    "takım": "Borussia Dortmund",
+    "mevki": "Left-Back",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Kjell Wätjen",
+    "yaş": 19,
+    "takım": "Borussia Dortmund",
+    "mevki": "Central Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Julien Duranville",
+    "yaş": 19,
+    "takım": "Borussia Dortmund",
+    "mevki": "Left Winger",
+    "uyruk": "Belgium",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Jamie Bynoe-Gittens",
+    "yaş": 20,
+    "takım": "Borussia Dortmund",
+    "mevki": "Left Winger",
+    "uyruk": "England",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Carney Chukwuemeka",
+    "yaş": 21,
+    "takım": "Borussia Dortmund",
+    "mevki": "Central Midfield",
+    "uyruk": "England",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Yan Couto",
+    "yaş": 22,
+    "takım": "Borussia Dortmund",
+    "mevki": "Right-Back",
+    "uyruk": "Brazil",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Niklas Lomb",
+    "yaş": 31,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Lukáš Hrádecký",
+    "yaş": 35,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Goalkeeper",
+    "uyruk": "Finland",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Matej Kovar",
+    "yaş": 25,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Goalkeeper",
+    "uyruk": "Czech Republic",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Luca Novodomsky",
+    "yaş": 20,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Simeon Rapsch",
+    "yaş": 17,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Goalkeeper",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Ben Hawighorst",
+    "yaş": 17,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Defence",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Andrea Natali",
+    "yaş": 17,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Defence",
+    "uyruk": "Italy",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Othniel Raterink",
+    "yaş": 19,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Midfield",
+    "uyruk": "Netherlands",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Kerim Alajbegović",
+    "yaş": 17,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Midfield",
+    "uyruk": "Bosnia-Herzegovina",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Alejo Sarco",
+    "yaş": 19,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Offence",
+    "uyruk": "Argentina",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Jeremie Frimpong",
+    "yaş": 24,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Right Midfield",
+    "uyruk": "Netherlands",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Piero Hincapié",
+    "yaş": 23,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Centre-Back",
+    "uyruk": "Ecuador",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Edmond Tapsoba",
+    "yaş": 26,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Centre-Back",
+    "uyruk": "Burkina Faso",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Robert Andrich",
+    "yaş": 30,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Aleix García",
+    "yaş": 27,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Central Midfield",
+    "uyruk": "Spain",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Mario Hermoso",
+    "yaş": 29,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Centre-Back",
+    "uyruk": "Spain",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Emiliano Buendía",
+    "yaş": 28,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Argentina",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Florian Wirtz",
+    "yaş": 22,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Alejandro Grimaldo",
+    "yaş": 29,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Left-Back",
+    "uyruk": "Spain",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Exequiel Palacios",
+    "yaş": 26,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Central Midfield",
+    "uyruk": "Argentina",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Martin Terrier",
+    "yaş": 28,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Left Winger",
+    "uyruk": "France",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Nordi Mukiele",
+    "yaş": 27,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Right-Back",
+    "uyruk": "France",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Jonas Hofmann",
+    "yaş": 32,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Granit Xhaka",
+    "yaş": 32,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Switzerland",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Patrik Schick",
+    "yaş": 29,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Centre-Forward",
+    "uyruk": "Czech Republic",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Jonathan Tah",
+    "yaş": 29,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Centre-Back",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Artem Stepanov",
+    "yaş": 17,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Centre-Forward",
+    "uyruk": "Ukraine",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Francis Onyeka",
+    "yaş": 18,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Ken Izekor",
+    "yaş": 17,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Centre-Forward",
+    "uyruk": "Germany",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Arthur Augusto",
+    "yaş": 22,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Right-Back",
+    "uyruk": "Brazil",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Jeanuel Belocian",
+    "yaş": 20,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Centre-Back",
+    "uyruk": "France",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Nathan Tella",
+    "yaş": 25,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Right Midfield",
+    "uyruk": "England",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Amine Adli",
+    "yaş": 25,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Left Winger",
+    "uyruk": "Morocco",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Victor Boniface",
+    "yaş": 24,
+    "takım": "Bayer Leverkusen",
+    "mevki": "Centre-Forward",
+    "uyruk": "Nigeria",
+    "lig": "Bundesliga"
+  },
+  {
+    "isim": "Mattia Perin",
+    "yaş": 32,
+    "takım": "Juventus",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Carlo Pinsoglio",
+    "yaş": 35,
+    "takım": "Juventus",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Michele Di Gregorio",
+    "yaş": 27,
+    "takım": "Juventus",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Giovanni Daffara",
+    "yaş": 20,
+    "takım": "Juventus",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Niccolò Rizzo",
+    "yaş": 17,
+    "takım": "Juventus",
+    "mevki": "Defence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Javier Gil",
+    "yaş": 19,
+    "takım": "Juventus",
+    "mevki": "Defence",
+    "uyruk": "Spain",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Filippo Pagnucco",
+    "yaş": 19,
+    "takım": "Juventus",
+    "mevki": "Defence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Alessandro Pietrelli",
+    "yaş": 22,
+    "takım": "Juventus",
+    "mevki": "Midfield",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Augusto Owusu",
+    "yaş": 20,
+    "takım": "Juventus",
+    "mevki": "Midfield",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Lorenzo Anghelè",
+    "yaş": 20,
+    "takım": "Juventus",
+    "mevki": "Offence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Diego Pugno",
+    "yaş": 18,
+    "takım": "Juventus",
+    "mevki": "Offence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Pierre Kalulu",
+    "yaş": 24,
+    "takım": "Juventus",
+    "mevki": "Centre-Back",
+    "uyruk": "France",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Andrea Cambiaso",
+    "yaş": 25,
+    "takım": "Juventus",
+    "mevki": "Left-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Juan Cabal",
+    "yaş": 24,
+    "takım": "Juventus",
+    "mevki": "Left-Back",
+    "uyruk": "Colombia",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Khéphren Thuram-Ulie",
+    "yaş": 24,
+    "takım": "Juventus",
+    "mevki": "Central Midfield",
+    "uyruk": "France",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Dušan Vlahović",
+    "yaş": 25,
+    "takım": "Juventus",
+    "mevki": "Centre-Forward",
+    "uyruk": "Serbia",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Nicolás González",
+    "yaş": 27,
+    "takım": "Juventus",
+    "mevki": "Right Winger",
+    "uyruk": "Argentina",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Douglas Luiz",
+    "yaş": 27,
+    "takım": "Juventus",
+    "mevki": "Central Midfield",
+    "uyruk": "Brazil",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Randal Kolo Muani",
+    "yaş": 26,
+    "takım": "Juventus",
+    "mevki": "Centre-Forward",
+    "uyruk": "France",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Tim Weah",
+    "yaş": 25,
+    "takım": "Juventus",
+    "mevki": "Right Winger",
+    "uyruk": "USA",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Teun Koopmeiners",
+    "yaş": 27,
+    "takım": "Juventus",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Netherlands",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Weston McKennie",
+    "yaş": 26,
+    "takım": "Juventus",
+    "mevki": "Central Midfield",
+    "uyruk": "USA",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Lloyd Kelly",
+    "yaş": 26,
+    "takım": "Juventus",
+    "mevki": "Centre-Back",
+    "uyruk": "England",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Arkadiusz Milik",
+    "yaş": 31,
+    "takım": "Juventus",
+    "mevki": "Centre-Forward",
+    "uyruk": "Poland",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Manuel Locatelli",
+    "yaş": 27,
+    "takım": "Juventus",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Bremer",
+    "yaş": 28,
+    "takım": "Juventus",
+    "mevki": "Centre-Back",
+    "uyruk": "Brazil",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Christos Papadopoulos",
+    "yaş": 20,
+    "takım": "Juventus",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Greece",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Jonas Rouhi",
+    "yaş": 21,
+    "takım": "Juventus",
+    "mevki": "Left-Back",
+    "uyruk": "Sweden",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Samuel Mbangula",
+    "yaş": 21,
+    "takım": "Juventus",
+    "mevki": "Left Winger",
+    "uyruk": "Belgium",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Nicolò Savona",
+    "yaş": 22,
+    "takım": "Juventus",
+    "mevki": "Right-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Kenan Yıldız",
+    "yaş": 20,
+    "takım": "Juventus",
+    "mevki": "Left Winger",
+    "uyruk": "Turkey",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Alberto Baio",
+    "yaş": 21,
+    "takım": "Juventus",
+    "mevki": "Right-Back",
+    "uyruk": "Portugal",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Vasilije Adzic",
+    "yaş": 19,
+    "takım": "Juventus",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Montenegro",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Renato Veiga",
+    "yaş": 21,
+    "takım": "Juventus",
+    "mevki": "Centre-Back",
+    "uyruk": "Portugal",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Federico Gatti",
+    "yaş": 26,
+    "takım": "Juventus",
+    "mevki": "Centre-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Francisco Conceição",
+    "yaş": 22,
+    "takım": "Juventus",
+    "mevki": "Right Winger",
+    "uyruk": "Portugal",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Simone Scuffet",
+    "yaş": 28,
+    "takım": "Napoli",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Alex Meret",
+    "yaş": 28,
+    "takım": "Napoli",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Nikita Contini Baranovsky",
+    "yaş": 28,
+    "takım": "Napoli",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Claudio Turi",
+    "yaş": 20,
+    "takım": "Napoli",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Mattia Esposito",
+    "yaş": 19,
+    "takım": "Napoli",
+    "mevki": "Defence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Giacomo Raspadori",
+    "yaş": 25,
+    "takım": "Napoli",
+    "mevki": "Offence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Luis Hasa",
+    "yaş": 21,
+    "takım": "Napoli",
+    "mevki": "Central Midfield",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Rafa Marin",
+    "yaş": 22,
+    "takım": "Napoli",
+    "mevki": "Centre-Back",
+    "uyruk": "Spain",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Juan Jesus",
+    "yaş": 33,
+    "takım": "Napoli",
+    "mevki": "Centre-Back",
+    "uyruk": "Brazil",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Billy Gilmour",
+    "yaş": 23,
+    "takım": "Napoli",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Scotland",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Cyril Ngonge",
+    "yaş": 24,
+    "takım": "Napoli",
+    "mevki": "Right Winger",
+    "uyruk": "Belgium",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Stanislav Lobotka",
+    "yaş": 30,
+    "takım": "Napoli",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Slovakia",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Mathías Olivera",
+    "yaş": 27,
+    "takım": "Napoli",
+    "mevki": "Left-Back",
+    "uyruk": "Uruguay",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Amir Rrahmani",
+    "yaş": 31,
+    "takım": "Napoli",
+    "mevki": "Centre-Back",
+    "uyruk": "Kosovo",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Noah Okafor",
+    "yaş": 24,
+    "takım": "Napoli",
+    "mevki": "Left Winger",
+    "uyruk": "Switzerland",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "André Zambo Anguissa",
+    "yaş": 29,
+    "takım": "Napoli",
+    "mevki": "Central Midfield",
+    "uyruk": "Cameroon",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Philip Billing",
+    "yaş": 28,
+    "takım": "Napoli",
+    "mevki": "Central Midfield",
+    "uyruk": "Denmark",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Scott McTominay",
+    "yaş": 28,
+    "takım": "Napoli",
+    "mevki": "Central Midfield",
+    "uyruk": "Scotland",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "David Neres",
+    "yaş": 28,
+    "takım": "Napoli",
+    "mevki": "Right Winger",
+    "uyruk": "Brazil",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Romelu Lukaku",
+    "yaş": 32,
+    "takım": "Napoli",
+    "mevki": "Centre-Forward",
+    "uyruk": "Belgium",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Giovanni Di Lorenzo",
+    "yaş": 31,
+    "takım": "Napoli",
+    "mevki": "Right-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Pasquale Mazzocchi",
+    "yaş": 29,
+    "takım": "Napoli",
+    "mevki": "Right-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Alessandro Buongiorno",
+    "yaş": 25,
+    "takım": "Napoli",
+    "mevki": "Centre-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Matteo Politano",
+    "yaş": 31,
+    "takım": "Napoli",
+    "mevki": "Right Winger",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Leonardo Spinazzola",
+    "yaş": 32,
+    "takım": "Napoli",
+    "mevki": "Left-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Giovanni Simeone",
+    "yaş": 29,
+    "takım": "Napoli",
+    "mevki": "Centre-Forward",
+    "uyruk": "Argentina",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Raffaele Di Gennaro",
+    "yaş": 31,
+    "takım": "Inter",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Yann Sommer",
+    "yaş": 36,
+    "takım": "Inter",
+    "mevki": "Goalkeeper",
+    "uyruk": "Switzerland",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Josep Martinez",
+    "yaş": 26,
+    "takım": "Inter",
+    "mevki": "Goalkeeper",
+    "uyruk": "Spain",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Alessandro Calligaris",
+    "yaş": 20,
+    "takım": "Inter",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Alain Taho",
+    "yaş": 18,
+    "takım": "Inter",
+    "mevki": "Goalkeeper",
+    "uyruk": "Albania",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Carlos Augusto Lobaton",
+    "yaş": 26,
+    "takım": "Inter",
+    "mevki": "Defence",
+    "uyruk": "Brazil",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Mike Aidoo",
+    "yaş": 19,
+    "takım": "Inter",
+    "mevki": "Defence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Christos Alexiou",
+    "yaş": 19,
+    "takım": "Inter",
+    "mevki": "Defence",
+    "uyruk": "Greece",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Gabriele Re Cecconi",
+    "yaş": 19,
+    "takım": "Inter",
+    "mevki": "Defence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Matteo Cocchi",
+    "yaş": 18,
+    "takım": "Inter",
+    "mevki": "Defence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Luka Topalović",
+    "yaş": 19,
+    "takım": "Inter",
+    "mevki": "Midfield",
+    "uyruk": "Slovenia",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Daniele Quieto",
+    "yaş": 19,
+    "takım": "Inter",
+    "mevki": "Midfield",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Thomas Berenbruch",
+    "yaş": 19,
+    "takım": "Inter",
+    "mevki": "Midfield",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Mattia Zanchetta",
+    "yaş": 19,
+    "takım": "Inter",
+    "mevki": "Midfield",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Giacomo De Pieri",
+    "yaş": 18,
+    "takım": "Inter",
+    "mevki": "Midfield",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Joaquín Correa",
+    "yaş": 30,
+    "takım": "Inter",
+    "mevki": "Offence",
+    "uyruk": "Argentina",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Matteo Spinaccè",
+    "yaş": 18,
+    "takım": "Inter",
+    "mevki": "Offence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Matteo Lavelli",
+    "yaş": 18,
+    "takım": "Inter",
+    "mevki": "Offence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Marcus Thuram-Ulien",
+    "yaş": 27,
+    "takım": "Inter",
+    "mevki": "Centre-Forward",
+    "uyruk": "France",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Marko Arnautovic",
+    "yaş": 36,
+    "takım": "Inter",
+    "mevki": "Centre-Forward",
+    "uyruk": "Austria",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Matteo Darmian",
+    "yaş": 35,
+    "takım": "Inter",
+    "mevki": "Right-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Henrikh Mkhitaryan",
+    "yaş": 36,
+    "takım": "Inter",
+    "mevki": "Central Midfield",
+    "uyruk": "Armenia",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Denzel Dumfries",
+    "yaş": 29,
+    "takım": "Inter",
+    "mevki": "Right-Back",
+    "uyruk": "Netherlands",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Mehdi Taremi",
+    "yaş": 32,
+    "takım": "Inter",
+    "mevki": "Centre-Forward",
+    "uyruk": "Iran",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Benjamin Pavard",
+    "yaş": 29,
+    "takım": "Inter",
+    "mevki": "Centre-Back",
+    "uyruk": "France",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Lautaro Martínez",
+    "yaş": 27,
+    "takım": "Inter",
+    "mevki": "Centre-Forward",
+    "uyruk": "Argentina",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Davide Frattesi",
+    "yaş": 25,
+    "takım": "Inter",
+    "mevki": "Central Midfield",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Francesco Acerbi",
+    "yaş": 37,
+    "takım": "Inter",
+    "mevki": "Centre-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Piotr Zieliński",
+    "yaş": 30,
+    "takım": "Inter",
+    "mevki": "Central Midfield",
+    "uyruk": "Poland",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Stefan de Vrij",
+    "yaş": 33,
+    "takım": "Inter",
+    "mevki": "Centre-Back",
+    "uyruk": "Netherlands",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Nicolò Barella",
+    "yaş": 28,
+    "takım": "Inter",
+    "mevki": "Central Midfield",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Alessandro Bastoni",
+    "yaş": 26,
+    "takım": "Inter",
+    "mevki": "Centre-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Hakan Çalhanoğlu",
+    "yaş": 31,
+    "takım": "Inter",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Turkey",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Yann Aurel Bisseck",
+    "yaş": 24,
+    "takım": "Inter",
+    "mevki": "Centre-Back",
+    "uyruk": "Germany",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Matteo Motta",
+    "yaş": 20,
+    "takım": "Inter",
+    "mevki": "Left-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Kristjan Asllani",
+    "yaş": 23,
+    "takım": "Inter",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Albania",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Nicola Zalewski",
+    "yaş": 23,
+    "takım": "Inter",
+    "mevki": "Left Midfield",
+    "uyruk": "Poland",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Federico Dimarco",
+    "yaş": 27,
+    "takım": "Inter",
+    "mevki": "Left-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Marco Sportiello",
+    "yaş": 33,
+    "takım": "Milan",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Mike Maignan",
+    "yaş": 29,
+    "takım": "Milan",
+    "mevki": "Goalkeeper",
+    "uyruk": "France",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Lapo Nava",
+    "yaş": 21,
+    "takım": "Milan",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Noah Raveyre",
+    "yaş": 19,
+    "takım": "Milan",
+    "mevki": "Goalkeeper",
+    "uyruk": "France",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Lorenzo Torriani",
+    "yaş": 20,
+    "takım": "Milan",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Andrei Coubis",
+    "yaş": 21,
+    "takım": "Milan",
+    "mevki": "Defence",
+    "uyruk": "Romania",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "João Félix",
+    "yaş": 25,
+    "takım": "Milan",
+    "mevki": "Offence",
+    "uyruk": "Portugal",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Bob Murphy Omoregbe",
+    "yaş": 21,
+    "takım": "Milan",
+    "mevki": "Offence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Mattia Liberali",
+    "yaş": 18,
+    "takım": "Milan",
+    "mevki": "Offence",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Youssouf Fofana",
+    "yaş": 26,
+    "takım": "Milan",
+    "mevki": "Defensive Midfield",
+    "uyruk": "France",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Santiago Giménez",
+    "yaş": 24,
+    "takım": "Milan",
+    "mevki": "Centre-Forward",
+    "uyruk": "Mexico",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Samuel Chukwueze",
+    "yaş": 25,
+    "takım": "Milan",
+    "mevki": "Right Winger",
+    "uyruk": "Nigeria",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Rafael Leão",
+    "yaş": 25,
+    "takım": "Milan",
+    "mevki": "Left Winger",
+    "uyruk": "Portugal",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Fikayo Tomori",
+    "yaş": 27,
+    "takım": "Milan",
+    "mevki": "Centre-Back",
+    "uyruk": "England",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Ruben Loftus-Cheek",
+    "yaş": 29,
+    "takım": "Milan",
+    "mevki": "Central Midfield",
+    "uyruk": "England",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Tammy Abraham",
+    "yaş": 27,
+    "takım": "Milan",
+    "mevki": "Centre-Forward",
+    "uyruk": "England",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Tijjani Reijnders",
+    "yaş": 26,
+    "takım": "Milan",
+    "mevki": "Central Midfield",
+    "uyruk": "Netherlands",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Luka Jović",
+    "yaş": 27,
+    "takım": "Milan",
+    "mevki": "Centre-Forward",
+    "uyruk": "Serbia",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Kyle Walker",
+    "yaş": 34,
+    "takım": "Milan",
+    "mevki": "Right-Back",
+    "uyruk": "England",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Alessandro Florenzi",
+    "yaş": 34,
+    "takım": "Milan",
+    "mevki": "Right-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Riccardo Sottil",
+    "yaş": 25,
+    "takım": "Milan",
+    "mevki": "Left Winger",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Matteo Gabbia",
+    "yaş": 25,
+    "takım": "Milan",
+    "mevki": "Centre-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Emerson Royal",
+    "yaş": 26,
+    "takım": "Milan",
+    "mevki": "Right-Back",
+    "uyruk": "Brazil",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Christian Pulisic",
+    "yaş": 26,
+    "takım": "Milan",
+    "mevki": "Right Winger",
+    "uyruk": "USA",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Theo Hernández",
+    "yaş": 27,
+    "takım": "Milan",
+    "mevki": "Left-Back",
+    "uyruk": "France",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Diego Sia",
+    "yaş": 19,
+    "takım": "Milan",
+    "mevki": "Left Winger",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Victor Eletu",
+    "yaş": 20,
+    "takım": "Milan",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Nigeria",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Francesco Camarda",
+    "yaş": 17,
+    "takım": "Milan",
+    "mevki": "Centre-Forward",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Álex Jiménez",
+    "yaş": 20,
+    "takım": "Milan",
+    "mevki": "Right-Back",
+    "uyruk": "Spain",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Davide Bartesaghi",
+    "yaş": 19,
+    "takım": "Milan",
+    "mevki": "Left-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Silvano Vos",
+    "yaş": 20,
+    "takım": "Milan",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Netherlands",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Chaka Traorè",
+    "yaş": 20,
+    "takım": "Milan",
+    "mevki": "Left Winger",
+    "uyruk": "Ivory Coast",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Warren Bondo",
+    "yaş": 21,
+    "takım": "Milan",
+    "mevki": "Central Midfield",
+    "uyruk": "France",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Yunus Musah",
+    "yaş": 22,
+    "takım": "Milan",
+    "mevki": "Central Midfield",
+    "uyruk": "USA",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Filippo Terracciano",
+    "yaş": 22,
+    "takım": "Milan",
+    "mevki": "Right-Back",
+    "uyruk": "Italy",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Malick Thiaw",
+    "yaş": 23,
+    "takım": "Milan",
+    "mevki": "Centre-Back",
+    "uyruk": "Germany",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Strahinja Pavlović",
+    "yaş": 23,
+    "takım": "Milan",
+    "mevki": "Centre-Back",
+    "uyruk": "Serbia",
+    "lig": "Serie A"
+  },
+  {
+    "isim": "Gianluigi Donnarumma",
+    "yaş": 26,
+    "takım": "PSG",
+    "mevki": "Goalkeeper",
+    "uyruk": "Italy",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Matvei Safonov",
+    "yaş": 26,
+    "takım": "PSG",
+    "mevki": "Goalkeeper",
+    "uyruk": "Russia",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Arnau Tenas",
+    "yaş": 23,
+    "takım": "PSG",
+    "mevki": "Goalkeeper",
+    "uyruk": "Spain",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Louis Mouquet",
+    "yaş": 20,
+    "takım": "PSG",
+    "mevki": "Goalkeeper",
+    "uyruk": "Portugal",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Noham Kamara",
+    "yaş": 18,
+    "takım": "PSG",
+    "mevki": "Defence",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Kang-in Lee",
+    "yaş": 24,
+    "takım": "PSG",
+    "mevki": "Midfield",
+    "uyruk": "South Korea",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Axel Tape",
+    "yaş": 17,
+    "takım": "PSG",
+    "mevki": "Midfield",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Wassim Slama",
+    "yaş": 16,
+    "takım": "PSG",
+    "mevki": "Midfield",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Quentin Ndjantou",
+    "yaş": 17,
+    "takım": "PSG",
+    "mevki": "Offence",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Bradley Barcola",
+    "yaş": 22,
+    "takım": "PSG",
+    "mevki": "Left Winger",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Lucas Beraldo",
+    "yaş": 21,
+    "takım": "PSG",
+    "mevki": "Centre-Back",
+    "uyruk": "Brazil",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Nuno Mendes",
+    "yaş": 22,
+    "takım": "PSG",
+    "mevki": "Left-Back",
+    "uyruk": "Portugal",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "William Pacho",
+    "yaş": 23,
+    "takım": "PSG",
+    "mevki": "Centre-Back",
+    "uyruk": "Ecuador",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Khvicha Kvaratskhelia",
+    "yaş": 24,
+    "takım": "PSG",
+    "mevki": "Left Winger",
+    "uyruk": "Georgia",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Gonçalo Ramos",
+    "yaş": 23,
+    "takım": "PSG",
+    "mevki": "Centre-Forward",
+    "uyruk": "Portugal",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Ousmane Dembélé",
+    "yaş": 28,
+    "takım": "PSG",
+    "mevki": "Right Winger",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Lucas Hernández",
+    "yaş": 29,
+    "takım": "PSG",
+    "mevki": "Left-Back",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Presnel Kimpembe",
+    "yaş": 29,
+    "takım": "PSG",
+    "mevki": "Centre-Back",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Marquinhos",
+    "yaş": 31,
+    "takım": "PSG",
+    "mevki": "Centre-Back",
+    "uyruk": "Brazil",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Achraf Hakimi",
+    "yaş": 26,
+    "takım": "PSG",
+    "mevki": "Right-Back",
+    "uyruk": "Morocco",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Fabián Ruiz",
+    "yaş": 29,
+    "takım": "PSG",
+    "mevki": "Central Midfield",
+    "uyruk": "Spain",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Naoufel El Hannach",
+    "yaş": 18,
+    "takım": "PSG",
+    "mevki": "Centre-Back",
+    "uyruk": "Morocco",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Ibrahim M'Baye",
+    "yaş": 17,
+    "takım": "PSG",
+    "mevki": "Right Winger",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Yoram Zague",
+    "yaş": 19,
+    "takım": "PSG",
+    "mevki": "Right-Back",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Senny Mayulu",
+    "yaş": 19,
+    "takım": "PSG",
+    "mevki": "Central Midfield",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Joao Neves",
+    "yaş": 20,
+    "takım": "PSG",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Portugal",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Warren Zaïre-Emery",
+    "yaş": 19,
+    "takım": "PSG",
+    "mevki": "Central Midfield",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Vitinha",
+    "yaş": 25,
+    "takım": "PSG",
+    "mevki": "Central Midfield",
+    "uyruk": "Portugal",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Desire Doue",
+    "yaş": 19,
+    "takım": "PSG",
+    "mevki": "Left Winger",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Géronimo Rulli",
+    "yaş": 32,
+    "takım": "Marsilya",
+    "mevki": "Goalkeeper",
+    "uyruk": "Argentina",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Rubén Blanco",
+    "yaş": 29,
+    "takım": "Marsilya",
+    "mevki": "Goalkeeper",
+    "uyruk": "Spain",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Jeffrey De Lange",
+    "yaş": 27,
+    "takım": "Marsilya",
+    "mevki": "Goalkeeper",
+    "uyruk": "Netherlands",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Jelle Van Neck",
+    "yaş": 21,
+    "takım": "Marsilya",
+    "mevki": "Goalkeeper",
+    "uyruk": "Belgium",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Robinio Vaz",
+    "yaş": 18,
+    "takım": "Marsilya",
+    "mevki": "Offence",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Geoffrey Kondogbia",
+    "yaş": 32,
+    "takım": "Marsilya",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Central African Republic",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Valentin Rongier",
+    "yaş": 30,
+    "takım": "Marsilya",
+    "mevki": "Central Midfield",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Amine Gouiri",
+    "yaş": 25,
+    "takım": "Marsilya",
+    "mevki": "Centre-Forward",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Pierre Emile Højbjerg",
+    "yaş": 29,
+    "takım": "Marsilya",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Denmark",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Chancel Mbemba",
+    "yaş": 30,
+    "takım": "Marsilya",
+    "mevki": "Centre-Back",
+    "uyruk": "DR Congo",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Neal Maupay",
+    "yaş": 28,
+    "takım": "Marsilya",
+    "mevki": "Centre-Forward",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Amine Harit",
+    "yaş": 27,
+    "takım": "Marsilya",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Morocco",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Adrien Rabiot",
+    "yaş": 30,
+    "takım": "Marsilya",
+    "mevki": "Central Midfield",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Ismael Bennacer",
+    "yaş": 27,
+    "takım": "Marsilya",
+    "mevki": "Defensive Midfield",
+    "uyruk": "Algeria",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Pol Mikel Lirola",
+    "yaş": 27,
+    "takım": "Marsilya",
+    "mevki": "Right-Back",
+    "uyruk": "Spain",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Luiz Felipe",
+    "yaş": 28,
+    "takım": "Marsilya",
+    "mevki": "Centre-Back",
+    "uyruk": "Italy",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Ulisses Garcia",
+    "yaş": 29,
+    "takım": "Marsilya",
+    "mevki": "Left-Back",
+    "uyruk": "Switzerland",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Darryl Bakola",
+    "yaş": 17,
+    "takım": "Marsilya",
+    "mevki": "Attacking Midfield",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Gaël Lafont",
+    "yaş": 18,
+    "takım": "Marsilya",
+    "mevki": "Central Midfield",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Keyliane Abdallah",
+    "yaş": 19,
+    "takım": "Marsilya",
+    "mevki": "Right Winger",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Michael Murillo",
+    "yaş": 29,
+    "takım": "Marsilya",
+    "mevki": "Right-Back",
+    "uyruk": "Panama",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Valentín Carboni",
+    "yaş": 20,
+    "takım": "Marsilya",
+    "mevki": "Attacking Midfield",
+    "uyruk": "Italy",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Jonathan Rowe",
+    "yaş": 22,
+    "takım": "Marsilya",
+    "mevki": "Left Winger",
+    "uyruk": "England",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Bilal Nadir",
+    "yaş": 21,
+    "takım": "Marsilya",
+    "mevki": "Central Midfield",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Quentin Merlin",
+    "yaş": 23,
+    "takım": "Marsilya",
+    "mevki": "Left-Back",
+    "uyruk": "France",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Faris Moumbagna",
+    "yaş": 24,
+    "takım": "Marsilya",
+    "mevki": "Centre-Forward",
+    "uyruk": "Cameroon",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Luis Henrique",
+    "yaş": 23,
+    "takım": "Marsilya",
+    "mevki": "Left Winger",
+    "uyruk": "Brazil",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Derek Cornelius",
+    "yaş": 27,
+    "takım": "Marsilya",
+    "mevki": "Centre-Back",
+    "uyruk": "Canada",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Mason Greenwood",
+    "yaş": 23,
+    "takım": "Marsilya",
+    "mevki": "Right Winger",
+    "uyruk": "England",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Leonardo Balerdi",
+    "yaş": 26,
+    "takım": "Marsilya",
+    "mevki": "Centre-Back",
+    "uyruk": "Argentina",
+    "lig": "Ligue 1"
+  },
+  {
+    "isim": "Amar Dedić",
+    "yaş": 22,
+    "takım": "Marsilya",
+    "mevki": "Right-Back",
+    "uyruk": "Bosnia-Herzegovina",
+    "lig": "Ligue 1"
+  }
+]
