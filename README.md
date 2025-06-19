@@ -24,20 +24,21 @@ pip install -r requirements.txt
 ```
 .
 ├── pythonodevi.py               # Ana oyun dosyası
-├── oyuncu_olustur.py            # API'den oyuncu verisi çekme
+├── oyuncu_olustur.py            # API'den oyuncu verisi çekme (varsa)
 ├── secili_takim_oyuncular.json  # Oyuncu verileri
-├── requirements.txt
-├── README.md
-├── logos/                       # Lig logoları
+├── requirements.txt             # Gerekli kütüphaneler
+├── README.md                    # Proje açıklaması
+├── logos/                       # Lig logoları (doğru isimlendirme önemli!)
 │   ├── bundesliga.png
-│   ├── la_liga.png
-│   ├── ligue1.png
-│   ├── premier_lig.png
-│   └── serie_a.png
-└── screenshots/                 # Ekran görüntüleri
+│   ├── la liga.png
+│   ├── ligue 1.png
+│   ├── premier lig.png
+│   └── serie A.png
+└── screenshots/                 # Oyun içi ekran görüntüleri (README için)
     ├── ana_menu.png
     ├── oyun_ekrani.png
     └── dogru_tahmin.png
+
 ```
 
 ---
